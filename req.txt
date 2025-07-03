@@ -1,0 +1,8 @@
+langchain>=0.2.26
+langchain-core>=0.2.26
+
+# or, if using Hugging Face:
+# langchain-huggingface
+# huggingface_hub
+
+python-dotenv
